@@ -1,5 +1,5 @@
-👋 Hey there! I'm Joyce, a current junior attending Hunter College. I'm interested in web and android application development.
-    I'm currently learning how to create android applications from scratching using android studio.
+👋 Hey there! I'm Joyce, a current junior attending Hunter College. I'm interested in web development, android application development and game development.
+
 
 
 <!---
