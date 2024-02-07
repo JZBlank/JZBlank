@@ -1,4 +1,4 @@
-👋 Hey there! I'm Joyce, a senior studying computer science at Hunter College. I am an aspiring software engineer with interests in web and game development.🌱✨
+👋 Hey there! I'm Joyce, an aspiring software engineer with interests in web and game development.🌱✨
 
 
 
